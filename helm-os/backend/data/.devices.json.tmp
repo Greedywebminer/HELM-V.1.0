@@ -1,0 +1,24 @@
+{
+  "192.168.1.250": {
+    "ip": "192.168.1.250",
+    "alias": "Miner-001-250",
+    "serial": "FLCH10001B062740",
+    "adbConnected": false,
+    "sshConnected": false,
+    "hashrate": "N/A",
+    "pool": "Pool: NA-LUCKPOOL",
+    "health": "gray",
+    "lastSeen": 1746161428918,
+    "dead": false,
+    "ssh": "u0_a232@192.168.1.250"
+  },
+  "192.168.91.104": {
+    "alias": "Miner-091-104",
+    "ip": "192.168.91.104",
+    "ssh": "u0_a302@192.168.91.104",
+    "pool": "Pool: NA-LUCKPOOL",
+    "lastSeen": 1746220517771,
+    "serial": "192.168.91.104:5555",
+    "dead": false
+  }
+}
